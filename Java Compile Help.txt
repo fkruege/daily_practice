@@ -1,0 +1,5 @@
+// compile java with assertions
+javac -source 1.4 QuickSort.java 
+
+// run java program with assertions
+java -ea QuickSort
